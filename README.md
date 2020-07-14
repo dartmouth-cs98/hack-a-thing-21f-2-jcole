@@ -1,11 +1,11 @@
-# Title
+# SA3 -- Starterpack
 
-*description*
+Webpack starteekit following instructions per SA3  
 
-[deployed url](http://url-if-deployed-here)
+[http://jc-cs52-starter.surge.sh/](http://jc-cs52-starter.surge.sh/)  
 
-## What Worked Well
+## EC  
 
-## What Didn't
+Implemented more robust image loading than a file-loader. Found info on how to do this on https://iamakulov.com/notes/optimize-images-webpack/ and worked with Garret Andreine for this part of it. Theoretically supports all the same image types that were supported with the file-loader.
 
 ## Screenshots
