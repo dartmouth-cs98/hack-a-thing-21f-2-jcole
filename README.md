@@ -1,16 +1,3 @@
-<<<<<<< HEAD
-# Title
-
-*description*
-
-[deployed url](http://url-if-deployed-here)
-
-## What Worked Well
-
-## What Didn't
-
-## Screenshots
-=======
 # SA3 -- Starterpack
 
 Webpack starteekit following instructions per SA3  
@@ -28,4 +15,3 @@ Implemented more robust image loading than a file-loader. Found info on how to d
 ![Image Description](https://github.com/dartmouth-cs52-20X/starterpack-jcole13/blob/master/src/img/screentshots/sa3-bytes-after.PNG) 
 
 
->>>>>>> a857a20322bbbdac8a4467f47234c4afc6823b43
