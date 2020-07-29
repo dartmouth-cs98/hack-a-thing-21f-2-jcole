@@ -10,7 +10,7 @@
     "test": "eslint src/**.js",
     "winbuild": "yarn clean & SET NODE_ENV=production& webpack --colors",
     "clean": "rimraf dist",
-    "windeploy": "yarn winbuild & surge -p dist -d jc-cs52-starter.surge.sh & yarn clean"
+    "windeploy": "yarn winbuild & surge -p dist -d jcole13-starter.surge.sh & yarn clean"
   },
   "devDependencies": {
     "@babel/core": "^7.10.4",
@@ -49,6 +49,7 @@
     "lodash.debounce": "^4.0.8",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-router": "^5.2.0"
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0"
   }
 }
