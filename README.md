@@ -4,6 +4,10 @@ Webpack starteekit following instructions per SA3
 
 [http://jc-cs52-starter.surge.sh/](http://jc-cs52-starter.surge.sh/)  
 
+Redux Version:  
+
+[http://jcole13-starter-redux.surge.sh/](http://jcole13-starter-redux.surge.sh/)  
+
 ## EC  
 
 Implemented more robust image loading than a file-loader. Found info on how to do this on https://iamakulov.com/notes/optimize-images-webpack/ and worked with Garret Andreine for this part of it. Theoretically supports all the same image types that were supported with the file-loader. 
