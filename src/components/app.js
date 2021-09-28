@@ -74,7 +74,7 @@ export default function App() {
 
   return (
     <div>
-      <h1>Bears</h1>
+      <h1>~Hacktivity 2~</h1>
       <Search panTo={panTo} />
       <Locate panTo={panTo} />
 
@@ -103,9 +103,9 @@ export default function App() {
           >
             <div>
               <h2>
-                Bear Spotted
+                Location Saved!
               </h2>
-              <p>Spotted {formatRelative(selected.time, new Date())}</p>
+              <p>Saved {formatRelative(selected.time, new Date())}</p>
             </div>
           </InfoWindow>
         ) : null}
@@ -168,7 +168,7 @@ function Search({ panTo }) {
         <ComboboxInput value={value}
           onChange={(event) => { setValue(event.target.value); }}
           disabled={!ready}
-          placeholder="Enter and Address"
+          placeholder="Enter an Address"
         />
         <ComboboxPopover>
           <ComboboxList>
