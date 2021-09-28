@@ -1,7 +1,7 @@
 body, html {
     font-family: "Roboto", sans-serif;
-    color: red;
-    background: linear-gradient(to bottom, #87e0fd 0%,#53cbf1 40%,#FF595E 100%);
+    color: #281414;
+    background: #E5E4E2;
     height: 100%;
 }
 
@@ -25,4 +25,35 @@ h1 {
   z-index: 10;
   margin: 0;
   padding: 0;
+}
+
+.search {
+  position: absolute;
+  top: 1rem;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100%;
+  max-width: 400px;
+  z-index: 10;
+}
+
+.search input {
+  padding: .5rem;
+  font-size: 1.5rem;
+  width: 100%;
+}
+
+.locate {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  background: none;
+  border: none;
+  z-index: 10;
+}
+
+.locate img {
+  width: 30px;
+  cursor: pointer;
+
 }
