@@ -129,9 +129,7 @@ function Locate({ panTo }) {
         () => null);
       }}
     >
-      <img src="src\img\iconmonstr-location-25.svg"
-        alt="compass - locate me"
-      />
+      <div className="img" />
     </button>
   );
 }
