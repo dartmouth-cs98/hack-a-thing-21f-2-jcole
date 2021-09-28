@@ -10,6 +10,8 @@ I built an app centered around `<GoogleMaps>`, with functionlity to pin a locati
 
 ![loc](https://github.com/dartmouth-cs98/hack-a-thing-21f-2-jcole/blob/main/src/img/screentshots/hacktivity-2-location.PNG)
 
+![locs](https://github.com/dartmouth-cs98/hack-a-thing-21f-2-jcole/blob/main/src/img/screentshots/hacktivity-2-locs.PNG)
+
 ![dash](https://github.com/dartmouth-cs98/hack-a-thing-21f-2-jcole/blob/main/src/img/screentshots/google-cloud-dash.PNG)
 
 
